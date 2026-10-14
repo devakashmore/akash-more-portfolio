@@ -239,13 +239,13 @@ function App() {
               >
                 <Github size={15} /> GitHub
               </a>
-              <a
+              {/* <a
                 href="/Akash-More-Resume.pdf"
                 download
                 className="inline-flex items-center gap-2 rounded-full border-2 border-black px-5 py-3 text-xs font-black uppercase tracking-wider transition hover:bg-black hover:text-white"
               >
                 <Download size={15} /> Resume
-              </a>
+              </a> */}
             </div>
           </div>
 
@@ -524,10 +524,10 @@ function App() {
             </div>
 
             <div className="mt-8 grid grid-cols-[1fr_110px] gap-4 border-t border-white/20 pt-5">
-              <div>
+              {/* <div>
                 <p className="text-[9px] font-black uppercase tracking-[0.2em] text-neutral-500">REFERENCE NO.</p>
                 <p className="mt-2 font-mono text-lg font-black">AM-2026-001</p>
-              </div>
+              </div> */}
               <div className="barcode h-10 self-end bg-white" />
             </div>
           </div>
