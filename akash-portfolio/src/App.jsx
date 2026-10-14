@@ -46,8 +46,8 @@ const skills = [
   ["Postman", "Tools"],
   ["Core Java", "Java"],
   ["OOP / Collections", "Java"],
-  ["JDBC", "Java"],
-  ["Multithreading", "Java"],
+  // ["JDBC", "Java"],
+  // ["Multithreading", "Java"],
 ];
 
 const projects = [
